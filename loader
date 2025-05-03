@@ -1,3 +1,5 @@
 if game.PlaceId == 71895508397153 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/itzuuki/purnaciarif/refs/heads/main/games/dieofdeath.lua"))()
+elseif game.PlaceId == 18687417158 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/itzuuki/purnaciarif/refs/heads/main/games/forsaken.lua"))()
 end
